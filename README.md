@@ -1,6 +1,5 @@
 ## SmallCC
 ### small compiler for subset of C language
-just version 1, still trying to find final version...
 
 **configuration file: config.xml**
 
