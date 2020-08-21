@@ -3,7 +3,7 @@
 
 **configuration file: config.xml**
 
-Preprocessing & optimization haven't be finished, so they are skiped.
+Preprocessing & optimization haven't been finished, so they are skipped.
 
 **source code: src**
 
